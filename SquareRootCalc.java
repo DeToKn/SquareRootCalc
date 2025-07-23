@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Devin_Knight_Assignment3_Part1 {
+public class SquareRootCalc {
     public static void main(String[] args) {
         String input = JOptionPane.showInputDialog(null, "Enter a number:");
         double number = Double.parseDouble(input);
